@@ -55,7 +55,7 @@ if (isset($_POST['name'])) {
                    Imię: <input type='text' name='name' required> <br>
                    Nazwisko: <input type='text' name='surname' required> <br>"
         }
-        echo "<input type='submit' value='Zarezerwuj'>";
+        echo "<input type='submit' value='Zarezerwuj'></form>";
     }
 }
 ?>
