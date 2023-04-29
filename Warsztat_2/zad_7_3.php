@@ -53,9 +53,7 @@ if (isset($_POST['name'])) {
             echo " method='POST'>
                    Dane osoby z rezerwacji: <br>
                    Imię: <input type='text' name='name' required> <br>
-                   Nazwisko: <input type='text' name='surname' required> <br>
-                   Adres: <input type='textarea' name='address' required> <br>
-                   E-mail: <input type='email' name='email' required> <br>";
+                   Nazwisko: <input type='text' name='surname' required> <br>"
         }
         echo "<input type='submit' value='Zarezerwuj'>";
     }
