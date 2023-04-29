@@ -1,0 +1,3 @@
+https://www.google.com/;przeglądarka google
+https://www.bing.com/?cc=pl;przeglądarka bing
+https://duckduckgo.com/;przeglądarka duckduckgo
